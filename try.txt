@@ -1,6 +1,0 @@
-try 1
-try 2
-esc
-:wq to exit
-i to insert
-
